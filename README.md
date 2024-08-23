@@ -30,7 +30,7 @@ O Gerenciador de Arquivos permite as seguintes operações:
 - `**path´:** Módulo nativo do Node.js utilizado para manipular caminhos de arquivos e diretórios.
 - `**main()´:** Função principal que executa o loop do menu e chama as funções apropriadas com base na escolha do usuário.
 
-##Fluxo da Aplicação
+## Fluxo da Aplicação
 
 1. **Configuração Inicial:** A aplicação cria um diretório chamado my_files na raiz do projeto.
 2. **Menu Interativo:** O usuário interage com o menu no terminal para realizar as operações de gerenciamento de arquivos.
