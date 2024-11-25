@@ -35,4 +35,4 @@ O Gerenciador de Arquivos permite as seguintes operações:
 1. **Configuração Inicial:** A aplicação cria um diretório chamado my_files na raiz do projeto.
 2. **Menu Interativo:** O usuário interage com o menu no terminal para realizar as operações de gerenciamento de arquivos.
 3. **Manipulação de Arquivos:** Dependendo da escolha, a aplicação executa a operação desejada (criar, listar, ler, escrever ou deletar arquivos).
-
+ 
